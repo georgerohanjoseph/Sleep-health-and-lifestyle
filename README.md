@@ -4,7 +4,7 @@ This project compares sleep quantity and quality with various other lifestyle pa
 
 [Sleep Health And Lifestyle](https://www.kaggle.com/code/rohanjosephgeorgeds/sleep-health-and-lifestyle)
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYeFdZl7lBH5uqed7F_ZkXNlv5KtDl3VSzNg&s" width=1000>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRt6yQGfulbhISvO-_b-weTeJ-2TOk6XUABQ&s" width=1000>
 
 
 ## Overview :
