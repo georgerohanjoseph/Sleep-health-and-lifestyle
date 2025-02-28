@@ -14,67 +14,34 @@ This dataset contains Sleep data and it compares sleep quality with various para
 - Dataset Source : [Sleep Health and Lifestyle Data](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset/data)
 
 ## Insights :
+
 1. A violin plot was used to show that females generally have a higher quality of sleep compared to males.
-   
-Age and Sleep Quality
 
 2. A swarm plot indicated that younger individuals tend to have more variability in sleep quality, while older individuals generally report more stable but slightly lower sleep quality.
-   
-Physical Activity and Sleep
 
 3. Higher physical activity levels correlate with better sleep quality and longer sleep duration, indicating the importance of an active lifestyle for healthy sleep.
-   
-Stress and Sleep
-4. Increased stress levels are negatively correlated with sleep quality, meaning that high stress significantly reduces sleep duration and quality.
-BMI and Sleep Disorders
+
+4. Increased stress levels are negatively correlated with sleep quality, meaning that high stress significantly reduces sleep duration and quality. BMI and Sleep Disorders
 
 5. Individuals in the obese BMI category are more likely to report sleep disorders such as insomnia or sleep apnea, suggesting a link between body weight and sleep health.
-
 ## Recommendation :
 
-Lifestyle and Routine Adjustments
-1. Maintain a Consistent Sleep Schedule
+1. Maintain a Consistent Sleep Schedule - Go to bed and wake up at the same time every day, even on weekends, to regulate your body's internal clock.
 
- Go to bed and wake up at the same time every day, even on weekends, to regulate your   body's internal clock.
-
-2. Create a Relaxing Pre-Sleep Routine
-
- Engage in calming activities like reading, meditation, or deep breathing before bed    to signal your body that it’s time to sleep.
- 
- Exercise Regularly
+2. Create a Relaxing Pre-Sleep Routine - Engage in calming activities like reading, meditation, or deep breathing before bed to signal your body that it’s time to sleep.
 
 3. Engage in at least 30 minutes of moderate exercise daily (e.g., walking, yoga, or strength training), but avoid intense workouts close to bedtime.
 
-Environmental Changes
+4. Optimize Your Sleep Environment - Keep your bedroom cool (18-22°C), dark, and quiet. Use blackout curtains, earplugs or white noise machines if needed.
 
-4. Optimize Your Sleep Environment
+5. Invest in a Good Mattress and Pillow - A comfortable bed with proper support reduces body aches and improves sleep duration and quality.
 
- Keep your bedroom cool (18-22°C), dark, and quiet. Use blackout curtains, earplugs,    or white noise machines if needed.
- 
-5. Invest in a Good Mattress and Pillow
+6. Limit Screen Time Before Bed - Reduce exposure to blue light from phones, tablets, and computers at least 1 hour before bedtime, as it disrupts melatonin production.
 
-A comfortable bed with proper support reduces body aches and improves sleep duration and quality.
+7. Avoid Stimulants Before Bed - Cut down on caffeine (coffee, tea, energy drinks) and nicotine in the evening as they interfere with sleep.
 
-6. Limit Screen Time Before Bed
+8. Heavy or Spicy Meals Before Sleep - Eating large meals or spicy foods before bed can cause acid reflux and discomfort,leading to poor sleep. Try to eat dinner at least 2-3 hours before bed.
 
-Reduce exposure to blue light from phones, tablets, and computers at least 1 hour before bedtime, as it disrupts melatonin production.
+9. Manage Stress and Anxiety - Engage in stress-reducing activities like journaling, mindfulness, or therapy to keep stress levels low, improving sleep quality.
 
-Dietary Adjustments
-
-7. Avoid Stimulants Before Bed
-
- Cut down on caffeine (coffee, tea, energy drinks) and nicotine in the evening as they  interfere with sleep.
-
-8. Limit Heavy or Spicy Meals Before Sleep
-
- Eating large meals or spicy foods before bed can cause acid reflux and discomfort,     leading to poor sleep. Try to eat dinner at least 2-3 hours before bed.
-
- Managing Stress and Mental Health
-
-9. Manage Stress and Anxiety
-
- Engage in stress-reducing activities like journaling, mindfulness, or therapy to keep  stress levels low, improving sleep quality.
-
-10. Expose Yourself to Natural Light During the Day
-
- Sunlight exposure regulates your circadian rhythm and improves melatonin production,   helping you fall asleep faster at night.
+10. Expose Yourself to Natural Light During the Day - Sunlight exposure regulates your circadian rhythm and improves melatonin production, helping you fall asleep faster at night.
